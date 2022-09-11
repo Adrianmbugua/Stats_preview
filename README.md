@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL: [https://adrianmbugua.github.io/statspreview/](https://adrianmbugua.github.io/statspreview/)
+- Solution URL: [https://adrianmbugua.github.io/Stats_preview/](https://adrianmbugua.github.io/Stats_preview/)
 ss
 
 ### Built with
